@@ -1,0 +1,9 @@
+.is-checked {
+  text-decoration:none !important;
+  color:var(--text-normal) !important;
+}
+
+.HyperMD-task-line[data-task]:not([data-task=" "]) {
+  text-decoration:none !important;
+  color:var(--text-normal) !important;
+}
