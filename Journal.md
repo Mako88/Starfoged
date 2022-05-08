@@ -3,3 +3,6 @@ Phoenix hired me to take a data drive to a contact on Rockhome. The meet went so
 I went to Providence where I met Lux, the original client. He told me the data drive was a map to a hidden Precoursor vault beneath Flint Two. I wanted a blood analysis run on a sample of mine that I had taken, and he said he'd do it in exchange for exploring the vault.
 
 I've retrieved the spacetime device from the [[Machine Vault]], now I have to find my way back out to return it to [[Lux Archer]].
+
+I found a way out of the [[Machine Vault]] but it's blocked by overgrown vicious plant matter. I used a plasma torch to cut through the plants, revealing a path to the exit.
+
